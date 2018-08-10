@@ -1,0 +1,22 @@
+PROJECT INFO
+    Name: Backend
+    Framework: ExpressJS
+    Database: Mongo
+    Structure:
+        + app
+            + models
+                - user // user model
+                - comment // user model
+            - routes // content Restful API
+        + config
+            - database // config connection mongodb
+            - passport // authentication
+        + view
+            - index
+            - login
+            - profile
+            - signup
+        - server
+        - package.json
+SERVER
+    Port: 8080
