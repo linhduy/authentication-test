@@ -1,5 +1,5 @@
 module.exports = {
 
-    'url' : 'mongodb://localhost:27017/homework'
+    'url' : 'mongodb://duynguyen:duy123@ds119442.mlab.com:19442/heroku_g53jgcsv'
 
 };
